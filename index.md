@@ -3,7 +3,7 @@ layout: default
 ---
 
 [Link to another page](./another-page.html)
-
+> "Without understanding, effective protection is impossible." — ChatGPT 
 # Key Projects
 
 ## Project 1: Home Network SIEM Setup
@@ -35,8 +35,6 @@ With nearly 15 years of experience in Information Technology, I’ve transitione
 - **Certified Threat Intelligence Analyst (CTIA)** (Planned)
 
 ## Roadmap
-
-> "Without understanding, effective protection is impossible." — ChatGPT 
 
 My professional journey is focused on becoming a SOC Analyst and later advancing into a cyber threat intelligence role. I'm actively building skills and planning to take key certifications such as OSCP, Pentest+, and CISSP to bolster my technical expertise.
 
