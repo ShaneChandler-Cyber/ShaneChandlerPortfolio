@@ -34,7 +34,7 @@ With nearly 15 years of experience in Information Technology, I’ve transitione
 
 ## Roadmap
 
-> "When something is important enough, you do it even if the odds are not in your favor." — Elon Musk
+> "Without understanding, effective protection is impossible." — ChatGPT 
 
 My professional journey is focused on becoming a SOC Analyst and later advancing into a cyber threat intelligence role. I'm actively building skills and planning to take key certifications such as OSCP, Pentest+, and CISSP to bolster my technical expertise.
 
