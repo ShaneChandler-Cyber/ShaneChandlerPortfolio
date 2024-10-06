@@ -1,5 +1,5 @@
 ---
-default
+layout: default
 ---
 
 # Resources
