@@ -25,7 +25,7 @@ With nearly 15 years of experience in Information Technology, I’ve transitione
 - Ongoing development of skills in Python scripting for security automation.
 
 ## Certifications & Training
--**George Brown College Cyber Security Analyst Certification** (Completed)  
+- **George Brown College Cyber Security Analyst Certification** (Completed)  
 - **Comptia A+ Training** (Completed)
 - **CompTIA Security+** (Completed)
 - **OSCP** (Planned)
