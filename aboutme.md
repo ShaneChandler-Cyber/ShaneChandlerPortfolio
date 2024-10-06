@@ -15,3 +15,10 @@ Beyond security, I’m dedicated to staying at the forefront of **tech innovatio
 When I’m not working or learning, I enjoy spending time with my dogs and working on community-driven projects. I'm always eager to connect with fellow tech enthusiasts and professionals, so feel free to reach out!
 
 ---
+
+<script>
+  setInterval(() => {
+    const cursor = document.getElementById('cursor');
+    cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden';
+  }, 500); // Blink every 500ms
+</script>
