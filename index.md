@@ -2,13 +2,6 @@
 layout: default
 ---
 
-<div id="cursor">_</div>
-<script>
-  setInterval(() => {
-    const cursor = document.getElementById('cursor');
-    cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden';
-  }, 500); // Blink every 500ms
-</script> 
 
 # [Home](./index.html) | [About me](./aboutme.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) 
 
@@ -51,5 +44,11 @@ With nearly 15 years of experience in Information Technology, I’ve transitione
 My professional journey is focused on becoming a SOC Analyst and later advancing into a cyber threat intelligence role. I'm actively building skills and planning to take key certifications such as OSCP, Pentest+, and CISSP to bolster my technical expertise.
 
 
-<h1>{{ site.cursor_text }}<span class="blinking-cursor">|</span></h1>
+<div id="cursor">_</div>
+<script>
+  setInterval(() => {
+    const cursor = document.getElementById('cursor');
+    cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden';
+  }, 500); // Blink every 500ms
+</script> 
 
