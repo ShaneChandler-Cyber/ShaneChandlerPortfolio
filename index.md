@@ -4,6 +4,14 @@ layout: default
 
 # [Home](./index.html) | [About me](./aboutme.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) | 
 
+<div id="cursor">_</div>
+
+<script>
+  setInterval(() => {
+    const cursor = document.getElementById('cursor');
+    cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden';
+  }, 500); // Blink every 500ms
+</script>
 
 
 # Key Projects
