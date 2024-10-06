@@ -1,8 +1,9 @@
----
-[Link to another page](./another-page.html)
+
 ---
 layout: default
 ---
+
+[Link to another page](./another-page.html)
 
 # Key Projects
 
