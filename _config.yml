@@ -1,11 +1,4 @@
-title: Shane O. Chandler Experienced IT Professional <div id="cursor">_</div>
-
-<script>
-  setInterval(() => {
-    const cursor = document.getElementById('cursor');
-    cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden';
-  }, 500); // Blink every 500ms
-</script>
+title: Shane O. Chandler Experienced IT Professional 
 description: Over 15 years of experience in IT, currently transitioning to a career in Cyber Security.
 show_downloads: false
 google_analytics:
