@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# [Home](./index.html) | [About me](./aboutme.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) | 
+
 # Resources
 
 Welcome to the Resources page! Below, you'll find a curated list of tools, tutorials, and guides that I’ve used and recommend for anyone looking to dive deeper into **IT** and **Cybersecurity**.
