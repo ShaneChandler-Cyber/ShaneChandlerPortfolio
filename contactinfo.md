@@ -25,6 +25,13 @@ Feel free to connect with me on social media:
 - [Twitter](https://twitter.com/yourusername)
 - [GitHub](https://github.com/ShaneChandler-Cyber)
 
+<script>
+  setInterval(() => {
+    const cursor = document.getElementById('cursor');
+    cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden';
+  }, 500); // Blink every 500ms
+</script>
+
 
 
 
