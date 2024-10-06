@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Home](./index.html) | [About me](./aboutme.html) | [Contact](./contact.html) | [Resources](./resources.html) |  ![Main Profile img](assets/images/IMG_0234.jpg)
+# [Home](./index.html) | [About me](./aboutme.html) | [Contact](./contact.html) | [Resources](./resources.html) | 
 
 
 
