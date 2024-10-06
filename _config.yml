@@ -1,8 +1,12 @@
+---
+layout: default
+---
+
 title: Shane O. Chandler Experienced IT Professional 
 description: Over 15 years of experience in IT, currently transitioning to a career in Cyber Security.<span id="cursor">_</span>
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-hacker
+theme: jekyll-theme-hacker 
 
 <script>
   setInterval(() => {
@@ -10,5 +14,6 @@ theme: jekyll-theme-hacker
     cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden';
   }, 500); // Blink every 500ms
 </script>
+
 
 
