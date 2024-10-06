@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Home](./index.html) | [About me](./aboutme.html) | [Contact](./contact.html) | [Resources](./resources.html) | 
+# [Home](./index.html) | [About me](./aboutme.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) | 
 
 
 
