@@ -25,10 +25,10 @@ With nearly 15 years of experience in Information Technology, I’ve transitione
 - Ongoing development of skills in Python scripting for security automation.
 
 ## Certifications & Training
-
-- **CompTIA Security+** (In Progress)
+- **Comptia A+ Training (Completed)
+- **CompTIA Security+** (Completed)
 - **OSCP** (Planned)
-- **Pentest+** (Planned)
+- **Pentest+/CEH** (Planned)
 - **Certified Threat Intelligence Analyst (CTIA)** (Planned)
 
 ## Roadmap
