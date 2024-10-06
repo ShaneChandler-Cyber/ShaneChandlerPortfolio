@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./index.html) | [Home 2](./another-page.html) | [Home 3](./contact)
+# [Home](./index.html) | [Home 2](./another-page.html) | [Home 3](./contact)
 > "Without understanding, effective protection is impossible." — ChatGPT
 
 # Key Projects
