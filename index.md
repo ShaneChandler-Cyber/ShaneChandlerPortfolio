@@ -40,3 +40,19 @@ With nearly 15 years of experience in Information Technology, I’ve transitione
 
 My professional journey is focused on becoming a SOC Analyst and later advancing into a cyber threat intelligence role. I'm actively building skills and planning to take key certifications such as OSCP, Pentest+, and CISSP to bolster my technical expertise.
 
+
+
+# Welcome to My Portfolio
+
+This portfolio is built using markdown, but here’s a fun effect with JavaScript:
+
+<div id="cursor">_</div>
+
+<script>
+  setInterval(() => {
+    const cursor = document.getElementById('cursor');
+    cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden';
+  }, 500); // Blink every 500ms
+</script>
+
+Check out the rest of the projects below.
