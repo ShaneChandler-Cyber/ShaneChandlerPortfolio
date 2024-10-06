@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# [Home](./index.html) | [About me](./aboutme.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) | 
+
 # About Me
 
 Hello! I'm Shane Chandler, an IT professional with over 15 years of experience spanning various domains in technology. My journey in IT has allowed me to develop a broad skill set, ranging from network administration to system engineering. Now, I'm fully pivoting towards **Cybersecurity**, driven by my passion for protecting and securing digital infrastructures.
