@@ -20,7 +20,7 @@ layout: default
 
 ## Project 1: Home Network SIEM Setup
 
-I built a secure home network with Access Control Lists (ACLs) and integrated it with a Security Information and Event Management (SIEM) system using Security Onion. This setup involved configuring firewalls and creating custom detection rules to monitor and analyze real-time network traffic, helping to detect and respond to potential threats.
+- I built a secure home network with Access Control Lists (ACLs) and integrated it with a Security Information and Event Management (SIEM) system using Security Onion. This setup involved configuring firewalls and creating custom detection rules to monitor and analyze real-time network traffic, helping to detect and respond to potential threats.
 
 ## Project 2: ELK Stack Deployment
 
