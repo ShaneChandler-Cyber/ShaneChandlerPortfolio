@@ -21,27 +21,12 @@ For urgent matters, you can reach me by phone at: **246-241-3800**
 
 Feel free to connect with me on social media:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](www.linkedin.com/in/shane-chandler-Cyber-Security)
 - [Twitter](https://twitter.com/yourusername)
-- [GitHub](https://github.com/yourusername)
-
-## Message Form
-
-Alternatively, you can fill out the form below, and I will get back to you as soon as possible.
-
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required>
-
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required>
-
-  <label for="message">Message:</label>
-  <textarea id="message" name="message" rows="5" required></textarea>
-
-  <button type="submit">Send Message</button>
-</form>
+- [GitHub](https://github.com/ShaneChandler-Cyber)
 
 
-[back](./)
+
+
+[back](./index.html)
 
