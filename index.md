@@ -6,116 +6,46 @@ layout: default
 
 ## Project 1: Home Network SIEM Setup
 
-Implemented a secure home network with Access Control Lists (ACLs) and integrated it with a Security Information and Event Management (SIEM) system (Security Onion). I configured firewalls and wrote custom 
+I built a secure home network with Access Control Lists (ACLs) and integrated it with a Security Information and Event Management (SIEM) system using Security Onion. This setup involved configuring firewalls and creating custom detection rules to monitor and analyze real-time network traffic, helping to detect and respond to potential threats.
 
-detection rules to monitor and analyze real-time network traffic.
+## Project 2: ELK Stack Deployment
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Successfully configured and deployed the ELK Stack on a Linux Virtual Machine (VM). This included setting up Elasticsearch, Logstash, and Kibana for log collection, processing, and visualization. The system helps in analyzing security logs from various sources and provides actionable insights.
 
-## Header 2
+## Project 3: Cybersecurity Lab Setup (Ongoing)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Currently working on a cybersecurity lab to simulate real-world scenarios involving penetration testing, threat detection, and mitigation using tools such as Nessus, Metasploit, and Kali Linux. The goal is to sharpen my skills in vulnerability scanning and ethical hacking as I prepare for the OSCP and Pentest+ certifications.
 
-### Header 3
+# Experiences
+
+With nearly 15 years of experience in Information Technology, I’ve transitioned from IT infrastructure management into the cybersecurity space. My expertise includes setting up SIEM systems, deploying security tools like Nessus, Metasploit, and Kali Linux, and configuring monitoring solutions using the ELK Stack. My experience spans:
+
+- Incident response and real-time monitoring of networks using Security Onion.
+- Hands-on experience with PowerShell for automating tasks and security analysis.
+- Ongoing development of skills in Python scripting for security automation.
+
+## Certifications & Training
+
+- **CompTIA Security+** (In Progress)
+- **OSCP** (Planned)
+- **Pentest+** (Planned)
+- **Certified Threat Intelligence Analyst (CTIA)** (Planned)
+
+## Roadmap
+
+> "When something is important enough, you do it even if the odds are not in your favor." — Elon Musk
+
+My professional journey is focused on becoming a SOC Analyst and later advancing into a cyber threat intelligence role. I'm actively building skills and planning to take key certifications such as OSCP, Pentest+, and CISSP to bolster my technical expertise.
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+// Example of code block to automate log analysis in ELK using Python
+import requests
+import json
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+def get_logs():
+  response = requests.get('http://localhost:9200/_search')
+  logs = json.loads(response.text)
+  for log in logs['hits']['hits']:
+      print(log['_source'])
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+get_logs()
