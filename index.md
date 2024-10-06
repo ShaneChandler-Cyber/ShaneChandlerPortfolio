@@ -10,7 +10,7 @@ layout: default
   }, 500); // Blink every 500ms
 </script> 
 
-# [Home](./index.html) | [About me](./aboutme.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) | <span class="blinking-cursor">|</span>
+# [Home](./index.html) | [About me](./aboutme.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) 
 
 
 
