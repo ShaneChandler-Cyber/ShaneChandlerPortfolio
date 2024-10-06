@@ -4,7 +4,7 @@ layout: default
 
 # Key Projects
 
-Project 1: Home Network SIEM Setup
+## Project 1: Home Network SIEM Setup
 
 Implemented a secure home network with Access Control Lists (ACLs) and integrated it with a Security Information and Event Management (SIEM) system (Security Onion). I configured firewalls and wrote custom 
 
