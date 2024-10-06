@@ -3,7 +3,8 @@ layout: default
 ---
 
 [Link to another page](./another-page.html)
-> "Without understanding, effective protection is impossible." — ChatGPT 
+> "Without understanding, effective protection is impossible." — ChatGPT
+
 # Key Projects
 
 ## Project 1: Home Network SIEM Setup
