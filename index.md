@@ -38,15 +38,3 @@ With nearly 15 years of experience in Information Technology, I’ve transitione
 
 My professional journey is focused on becoming a SOC Analyst and later advancing into a cyber threat intelligence role. I'm actively building skills and planning to take key certifications such as OSCP, Pentest+, and CISSP to bolster my technical expertise.
 
-```js
-// Example of code block to automate log analysis in ELK using Python
-import requests
-import json
-
-def get_logs():
-  response = requests.get('http://localhost:9200/_search')
-  logs = json.loads(response.text)
-  for log in logs['hits']['hits']:
-      print(log['_source'])
-
-get_logs()
