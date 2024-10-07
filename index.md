@@ -13,7 +13,7 @@ layout: default
 <div style="display: flex; align-items: center;">
   <img src="assets/images/Home.jpg" alt="Home" style="margin-right: 20px;" />
   <div>
-    <h2> Certification & Training</h2>
+    # Certification & Training
     <ul>
       <li><strong>George Brown College Cyber Security Analyst Certification</strong> (Completed)</li>
       <li><strong>CompTIA A+ Training</strong> (Completed)</li>
