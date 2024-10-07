@@ -5,19 +5,20 @@ layout: default
 #  [About me](./aboutme.html) | [Home](./index.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) | [Projects](./projects.html)
 
 
-
-<p align="center">
-  <img src="assets/images/Home.jpg" alt="Home" />
-</p>
-
-## Certifications & Training
-                                 
-- **George Brown College Cyber Security Analyst Certification** (Completed)
-- **Comptia A+ Training** (Completed)
-- **CompTIA Security+** (Completed)
-- **OSCP** (Planned)
-- **Pentest+/CEH** (Planned)
-- **Certified Threat Intelligence Analyst (CTIA)** (Planned)
+<div style="display: flex; align-items: center;">
+  <img src="assets/images/Home.jpg" alt="Home" style="margin-right: 20px;" />
+  <div>
+    <h2>Certifications & Training</h2>
+    <ul>
+      <li><strong>George Brown College Cyber Security Analyst Certification</strong> (Completed)</li>
+      <li><strong>CompTIA A+ Training</strong> (Completed)</li>
+      <li><strong>CompTIA Security+</strong> (Completed)</li>
+      <li><strong>OSCP</strong> (Planned)</li>
+      <li><strong>Pentest+/CEH</strong> (Planned)</li>
+      <li><strong>Certified Threat Intelligence Analyst (CTIA)</strong> (Planned)</li>
+    </ul>
+  </div>
+</div>
 
 
 # Key Projects
