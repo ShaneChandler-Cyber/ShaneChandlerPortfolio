@@ -5,19 +5,19 @@ layout: default
 #  [About me](./aboutme.html) | [Home](./index.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) | [Projects](./projects.html)
 
 
-<div style="display: flex; align-items: center;">
-  <img src="assets/images/Home.jpg" alt="Home" style="margin-right: 20px; width: 200px;" />
+ <div style="display: flex; align-items: center;">
+  <img src="assets/images/Home.jpg" alt="Home" style="margin-right: 20px;" />
   <div>
-    ### Certification & Training
-    
-    - **George Brown College Cyber Security Analyst Certification** (Completed)
-    - **CompTIA A+ Training** (Completed)
-    - **CompTIA Security+** (Completed)
-    - **OSCP** (Planned)
-    - **Pentest+/CEH** (Planned)
-    - **Certified Threat Intelligence Analyst (CTIA)** (Planned)
-    
-    ![Security+ Logo](assets/images/SecurityPlus%20Logo%20Certified%20CE.png){: style="width:75%;" }
+    <h2> Certification & Training </h2>
+    <ul>
+      <li><strong>George Brown College Cyber Security Analyst Certification</strong> (Completed)</li>
+      <li><strong>CompTIA A+ Training</strong> (Completed)</li>
+      <li><strong>CompTIA Security+</strong> (Completed)</li>
+      <li><strong>OSCP</strong> (Planned)</li>
+      <li><strong>Pentest+/CEH</strong> (Planned)</li>
+      <li><strong>Certified Threat Intelligence Analyst (CTIA)</strong> (Planned)</li>
+    </ul>
+    <img src="assets/images/SecurityPlus Logo Certified CE.png" alt="Security+ Logo" style="width: 75%;" />
   </div>
 </div>
 
