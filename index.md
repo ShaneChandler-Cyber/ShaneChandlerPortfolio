@@ -6,7 +6,7 @@ layout: default
 
 
 
-![home](assets/images/home.jpg
+![home](assets/images/home.jpg)
 
 
 ## Certifications & Training
