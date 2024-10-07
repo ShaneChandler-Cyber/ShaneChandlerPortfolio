@@ -17,7 +17,7 @@ $container-max-width: 1000px;
 body {
   margin: 0;
   padding: 0;
-  background: $body-background url("../images/home5.jpg") no-repeat center center; /* Center the image */
+  background: $body-background url("../images/home5.jpg") center center; /* Center the image */
   background-size: cover; /* Scale the image to cover the entire screen */
   color: $body-foreground;
   font-size: 16px;
