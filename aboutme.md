@@ -6,7 +6,7 @@ layout: default
 
 # About Me
 
-Hi there! I'm Shane, an IT professional with over a decade and half of experience spanning various domains in technology. My journey in IT has allowed me to develop a broad skill set, ranging from network and system administration to cybersecurity and web development. Now, I'm fully pivoting towards **Cybersecurity**, driven by my passion for protecting and securing digital infrastructures.
+Hi there! I'm Shane, an IT professional with over a decade and half of experience spanning various domains in technology. My journey in IT has allowed me to develop a broad skill set, ranging from network and system administration to cybersecurity and web development. Now, I'm fully pivoting towards being a **Security Operations Analyst**, Then transitioning into **Threat Intelligence/Penetration testing**. driven by my passion for protecting and securing digital infrastructures.
 
 I’ve evolved from working as a mobile, computer, and network technician to becoming deeply immersed in the world of cybersecurity. My journey has been shaped by various roles, including working as a Digital Specialist and Projectionist, managing both technical operations and digital systems for Olympus Theaters. These experiences have honed my ability to tackle complex technical problems with creative solutions.
 
