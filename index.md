@@ -6,7 +6,9 @@ layout: default
 
 
 
-![Home](assets/images/Home.jpg) 
+<p align="center">
+  <img src="assets/images/Home.jpg" alt="Home" />
+</p>
 
 ## Certifications & Training
                                  
@@ -18,9 +20,6 @@ layout: default
 - **Certified Threat Intelligence Analyst (CTIA)** (Planned)
 
 - 
-<p align="center">
-  <img src="assets/images/Home.jpg" alt="Home" />
-</p>
 
 
 
