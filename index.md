@@ -19,12 +19,6 @@ layout: default
 - **Pentest+/CEH** (Planned)
 - **Certified Threat Intelligence Analyst (CTIA)** (Planned)
 
-- 
-
-
-
-
-
 
 # Key Projects
 
