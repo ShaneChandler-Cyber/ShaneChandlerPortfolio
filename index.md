@@ -21,7 +21,8 @@ layout: default
       <li><strong>OSCP</strong> (Planned)</li>
       <li><strong>Pentest+/CEH</strong> (Planned)</li>
       <li><strong>Certified Threat Intelligence Analyst (CTIA)</strong> (Planned)</li>
-      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e46e8305-e08d-4192-8726-ee8adaa23789" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+      <img src="assets/images/SecurityPlus Logo Certified CE.png" alt="Home
+     SecurityPlus Logo Certified CE.png
     </ul>
   </div>
 </div>
