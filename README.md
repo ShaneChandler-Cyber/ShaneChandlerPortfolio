@@ -12,7 +12,7 @@ Welcome to my personal portfolio! This website showcases my experience, projects
 ## About Me
 <p style="color: #1E90FF;">I'm Shane </p>, an IT professional with over <span style="color: #32CD32;">15 years of experience</span> in information technology and cybersecurity. My journey has allowed me to develop expertise in network administration, cybersecurity, web development, and more. I'm passionate about technology and solving complex security challenges.
 
-<img src="assets/images/profile-pic.png" alt="Shane's Profile Picture" style="border-radius: 50%; width: 150px;"/>
+
 
 This portfolio highlights some of the projects I’ve worked on, such as the **Legends Unhinged Discord Bot**, as well as websites and cybersecurity tools I’ve developed. I am continuously working on expanding my knowledge, and my portfolio will grow alongside me.
 
@@ -57,5 +57,7 @@ Feel free to reach out to me if you have any questions or would like to discuss 
 - **Email:** <span style="color: #FF6347;">[shanechandler001@gmail.com](mailto:shanechandler001@gmail.com)</span>
 - **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shane-chandler)
 - **GitHub:** [GitHub Profile](https://github.com/ShaneChandler-Cyber)
+
+<img src="assets/images/profile-pic.png" alt="Shane's Profile Picture" style="border-radius: 50%; width: 150px;"/>
 
 Thanks for visiting my portfolio!
