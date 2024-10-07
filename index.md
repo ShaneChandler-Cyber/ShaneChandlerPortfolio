@@ -6,8 +6,7 @@ layout: default
 
 
 
-![abstract-digital-chain-vibrant-blue-red-representing-cybersecurity-technology-illustration-high-quality-photo-ai-generated-326717545](assets/images/abstract-digital-chain-vibrant-blue-red-representing-cybersecurity-technology-illustration-high-quality-photo-ai-generated-326717545.webp
-
+![home](assets/images/home.jpg
 
 
 ## Certifications & Training
