@@ -21,8 +21,7 @@ layout: default
       <li><strong>OSCP</strong> (Planned)</li>
       <li><strong>Pentest+/CEH</strong> (Planned)</li>
       <li><strong>Certified Threat Intelligence Analyst (CTIA)</strong> (Planned)</li>
-      <img src="assets/images/SecurityPlus Logo Certified CE.png" alt="Home
-     SecurityPlus Logo Certified CE.png
+      <img src="assets/images/SecurityPlus Logo Certified CE.png" alt="Home/>
     </ul>
   </div>
 </div>
