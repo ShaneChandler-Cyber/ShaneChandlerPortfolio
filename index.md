@@ -5,15 +5,11 @@ layout: default
 #  [About me](./aboutme.html) | [Home](./index.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) | [Projects](./projects.html)
 
 
-
-
-
-
-
 <div style="display: flex; align-items: center;">
   <img src="assets/images/Home.jpg" alt="Home" style="margin-right: 20px; width: 200px;" />
   <div>
-    ## Certification & Training
+    ### Certification & Training
+    
     - **George Brown College Cyber Security Analyst Certification** (Completed)
     - **CompTIA A+ Training** (Completed)
     - **CompTIA Security+** (Completed)
@@ -21,9 +17,10 @@ layout: default
     - **Pentest+/CEH** (Planned)
     - **Certified Threat Intelligence Analyst (CTIA)** (Planned)
     
-  ![Security+ Logo](assets/images/SecurityPlus%20Logo%20Certified%20CE.png){: style="width:75%;" }
+    ![Security+ Logo](assets/images/SecurityPlus%20Logo%20Certified%20CE.png){: style="width:75%;" }
   </div>
 </div>
+
 
 
 
