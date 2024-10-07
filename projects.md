@@ -7,17 +7,17 @@ layout: default
 ## Projects
 
 ### 1. **Personal Portfolio Website**
-   - **Description**: Currently in development, this responsive portfolio showcases my skills, experiences, and projects in cybersecurity and IT. Built using **Jekyll**, **HTML**, **CSS**, and **JavaScript**, the website leverages a **jekyll-theme-hacker** for a modern look and feel.
+   - **Description**: This responsive portfolio website is currently under construction, aiming to effectively present my technical skills and experiences in the realms of cybersecurity and IT. Developed using **Jekyll**, **HTML**, **CSS**, and **JavaScript**, the site features a modern layout facilitated by the **jekyll-theme-hacker**.
    - **Technologies Used**: Jekyll, GitHub Pages, HTML, CSS, JavaScript, SCSS.
    - **Key Features**:
-     - Full-screen background image for an immersive experience.
-     - Sticky navigation bar for easy access to different sections.
-     - Dynamic project cards that expand to reveal more details.
-     - Integration of Google Analytics for tracking visitor interactions.
+     - **Dynamic Skill Bar**: Visual representation of my skills with dynamic skill bars showing proficiency levels.
+     - **Downloadable Resume**: A feature allowing visitors to easily download my resume.
+     - **Social Media Links**: Prominent links to my professional social media profiles, enhancing connectivity.
+     - **SEO Optimization**: Built-in SEO best practices to improve search engine visibility.
 
 ### 2. **Legends Unhinged Discord Bot**
-   - **Description**: This Discord bot enhances the community experience within Legends Unhinged, offering features such as moderation tools, game statistics, and community engagement options. The bot is being developed with a focus on user interaction and community building.
-   - **Technologies Used**: JavaScript, Discord.js, Node.js.
+   - **Description**: This Discord bot enhances the community experience within Legends Unhinged, offering features such as moderation tools, game statistics, and community engagement options. Developed in Python, the bot focuses on user interaction and community building.
+   - **Technologies Used**: Python, discord.py, GitHub.
    - **Key Features**:
      - Moderation commands to manage chat effectively.
      - Custom commands for game stats and updates.
