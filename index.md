@@ -6,16 +6,16 @@ layout: default
 
 
 
-![Home](assets/images/Home.jpg)
-
-
-## Certifications & Training
-- **George Brown College Cyber Security Analyst Certification** (Completed)  
-- **Comptia A+ Training** (Completed)
+![Home](assets/images/Home.jpg) ## Certifications & Training
+                                  - **George Brown College Cyber Security Analyst Certification** (Completed)  
+                                  - **Comptia A+ Training** (Completed)
 - **CompTIA Security+** (Completed)
 - **OSCP** (Planned)
 - **Pentest+/CEH** (Planned)
 - **Certified Threat Intelligence Analyst (CTIA)** (Planned)
+
+
+
 
 
 # Key Projects
