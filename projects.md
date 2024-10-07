@@ -6,7 +6,7 @@ layout: default
 
 ## Projects
 
-### 1. **Personal Portfolio Website**
+### 1. **Personal Portfolio Website** (ongoing)
    - **Description**: This responsive portfolio website is currently under construction, aiming to effectively present my technical skills and experiences in the realms of cybersecurity and IT. Developed using **Jekyll**, **HTML**, **CSS**, and **JavaScript**, the site features a modern layout facilitated by the **jekyll-theme-hacker**.
    - **Technologies Used**: Jekyll, GitHub Pages, HTML, CSS, JavaScript, SCSS.
    - **Key Features**:
