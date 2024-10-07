@@ -5,6 +5,11 @@ layout: default
 #  [About me](./aboutme.html) | [Home](./index.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) | [Projects](./projects.html)
 
 
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e46e8305-e08d-4192-8726-ee8adaa23789" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+
 <div style="display: flex; align-items: center;">
   <img src="assets/images/Home.jpg" alt="Home" style="margin-right: 20px;" />
   <div>
