@@ -10,7 +10,7 @@ Welcome to my personal portfolio! This website showcases my experience, projects
 - [Contact Information](#contact-information)
 
 ## About Me
-<p style="color: #1E90FF;">I'm Shane Chandler</p>, an IT professional with over <span style="color: #32CD32;">15 years of experience</span> in information technology and cybersecurity. My journey has allowed me to develop expertise in network administration, cybersecurity, web development, and more. I'm passionate about technology and solving complex security challenges.
+<p style="color: #1E90FF;">I'm Shane </p>, an IT professional with over <span style="color: #32CD32;">15 years of experience</span> in information technology and cybersecurity. My journey has allowed me to develop expertise in network administration, cybersecurity, web development, and more. I'm passionate about technology and solving complex security challenges.
 
 <img src="assets/images/profile-pic.png" alt="Shane's Profile Picture" style="border-radius: 50%; width: 150px;"/>
 
