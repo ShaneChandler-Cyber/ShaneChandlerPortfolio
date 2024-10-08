@@ -99,3 +99,5 @@ function copyToClipboard() {
 </script>
 
 [back](./index.html)
+
+---
