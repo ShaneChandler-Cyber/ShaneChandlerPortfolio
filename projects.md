@@ -10,7 +10,7 @@ layout: default
 
    - **Description**: This responsive portfolio website is currently under construction, aiming to effectively present my technical skills and experiences in the realms of cybersecurity and IT. Developed using **Jekyll**, **HTML**, **CSS**, and **JavaScript**, the site features a modern layout facilitated by the **jekyll-theme-hacker**.
    - **Technologies Used**: Jekyll, GitHub Pages, HTML, CSS, JavaScript, SCSS.
-   - ```**Key Features**:
+   - **Key Features**:
      - **Downloadable Resume**: A feature allowing visitors to easily download my resume.
      - **Social Media Links**: Prominent links to my professional social media profiles, enhancing connectivity.
      - **SEO Optimization**: Built-in SEO best practices to improve search engine visibility.
@@ -19,7 +19,7 @@ layout: default
      - **Project Showcases**: Interactive project displays with clickable cards that provide detailed views of each project.
          Includes descriptions, tools used, images, and demo videos for enhanced user experience.
      - **Security Practices**: Demonstrating web security awareness by implementing protection against vulnerabilities like XSS attacks.
-         PGP Key showcased to highlight encryption knowledge and secure communication.```
+         PGP Key showcased to highlight encryption knowledge and secure communication.
 
 ### 2. **Python Discord Bot** (ongoing)
 
