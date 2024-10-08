@@ -19,7 +19,7 @@ layout: default
      - **Project Showcases**: Interactive project displays with clickable cards that provide detailed views of each project.
          Includes descriptions, tools used, images, and demo videos for enhanced user experience.
      - **Security Practices**: Demonstrating web security awareness by implementing protection against vulnerabilities like XSS attacks.
-         PGP Key showcased to highlight encryption knowledge and secure communication.
+         PGP Key showcased to highlight encryption knowledge and secure communication.```
 
 ### 2. **Python Discord Bot** (ongoing)
 
