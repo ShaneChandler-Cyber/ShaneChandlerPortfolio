@@ -77,8 +77,7 @@ XhYf3yky43gQPn8zh4GnPXedmSv6DH2kFJBpYzeCKwPpO63XsxGsi1V+UcEwrqx6
 g92Y0VQ0xyWW0bUmkHUR5e5rASUWHdRyyk1ZX7AY/RZVq5OtV0Ett6LQsjWiQv/u
 dBDqapnbPTxiVG9JftKUWO/PDAiWljCclRDX1DZpTe839MjpbvY=
 =10l+
------END PTo enable easy copying of your PGP public key with a button click, you can use the following HTML and JavaScript snippet along with your markdown:
-
+-----END P
 ```html
 <script>
 function copyToClipboard() {
