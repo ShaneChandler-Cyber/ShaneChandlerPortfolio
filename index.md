@@ -56,21 +56,16 @@ Currently working on a cybersecurity lab to simulate real-world scenarios involv
 
 My professional journey is focused on becoming a SOC Analyst and later advancing into a cyber threat intelligence role. I'm actively building skills and planning to take key certifications such as OSCP, Pentest+, and CISSP to bolster my technical expertise.
 
-### 1. Foundational Knowledge and Skills Development
-- **IT Proficiency**: Leverage my nearly 15 years of IT experience to solidify my foundational knowledge in systems and network administration, which is essential for a SOC Analyst role.
-- **Core Security Concepts**: Deepen my understanding of cybersecurity principles, including:
-  - **Risk Management**: Learn to identify, assess, and mitigate security risks.
-  - **Incident Response**: Familiarize myself with incident response frameworks and best practices.
-  - **Threat Modeling**: Understand how to identify potential threats to systems and networks.
 
-### 2. Certifications and Training
-- **CompTIA Security+**: Complete this certification to validate my foundational cybersecurity knowledge.
+### 1. Certifications and Training
+
 - **OSCP (Offensive Security Certified Professional)**: Plan and prepare for this hands-on certification, focusing on penetration testing and ethical hacking skills.
 - **Pentest+**: Pursue this certification to demonstrate my proficiency in penetration testing and vulnerability management.
 - **CISSP (Certified Information Systems Security Professional)**: Begin studying for this advanced certification to solidify my knowledge in security management and governance.
 
 ### 3. Hands-On Experience and Practical Application
-- **Set Up a Home Lab**: Create a home lab environment to practice skills using tools like(in progress):
+
+  - **Set Up a Home Lab**: Create a home lab environment to practice skills using tools like(in progress):
   - **Python** Proficiency in Python for automation, application development, and artificial intelligence. 
   - **ELK Stack** for logging and monitoring.
   - **Security Onion** for intrusion detection and monitoring.
@@ -85,6 +80,7 @@ My professional journey is focused on becoming a SOC Analyst and later advancing
 
 
 ### 5. Career Advancement Towards Cyber Threat Intelligence
+
 - **Understand Cyber Threat Intelligence**: Research and familiarize myself with concepts related to threat intelligence, including:
   - **Threat Actors**: Learn about different types of threat actors and their tactics.
   - **Intelligence Analysis**: Develop skills in analyzing and interpreting threat data.
