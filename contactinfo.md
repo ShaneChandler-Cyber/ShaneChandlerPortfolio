@@ -37,7 +37,7 @@ Feel free to connect with me on social media:
 
 You can reach me securely using my PGP public key:
 
-'''- ----BEGIN PGP PUBLIC KEY BLOCK-----
+```- ----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: User-ID:	Shane Chandler [shanechandler001@gmail.com](mailto:shanechandler001@gmail.com)
 Comment: Valid from:	10/8/2024 6:34 PM
 Comment: Valid until:	10/8/2027 12:00 PM
@@ -83,5 +83,5 @@ XhYf3yky43gQPn8zh4GnPXedmSv6DH2kFJBpYzeCKwPpO63XsxGsi1V+UcEwrqx6
 g92Y0VQ0xyWW0bUmkHUR5e5rASUWHdRyyk1ZX7AY/RZVq5OtV0Ett6LQsjWiQv/u
 dBDqapnbPTxiVG9JftKUWO/PDAiWljCclRDX1DZpTe839MjpbvY=
 =10l+
------END PGP PUBLIC KEY BLOCK-----'''
+-----END PGP PUBLIC KEY BLOCK-----```
 
