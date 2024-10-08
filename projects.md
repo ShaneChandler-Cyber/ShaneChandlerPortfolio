@@ -21,7 +21,7 @@ Content management using Jekyll and hosted via GitHub Pages, reflecting my profi
      - **Security Practices**: Demonstrating web security awareness by implementing protection against vulnerabilities like XSS attacks.
          PGP Key showcased to highlight encryption knowledge and secure communication.
 
-### 2. **Discord Bot** (ongoing)
+### 2. **Python Discord Bot** (ongoing)
 
    - **Description**: This Discord bot enhances the community experience within Legends Unhinged, offering features such as moderation tools, game statistics, and community engagement options. Developed in Python, the bot focuses on user interaction and community building.
    - **Technologies Used**: Python, discord.py, GitHub.
