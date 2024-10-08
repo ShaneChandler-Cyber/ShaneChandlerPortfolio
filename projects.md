@@ -48,3 +48,4 @@ Content management using Jekyll and hosted via GitHub Pages, reflecting my profi
      - Realistic scenarios for testing skills and knowledge.
      - Utilization of various tools to identify vulnerabilities and secure systems.
      - Documented findings and remediation strategies for future reference.
+
