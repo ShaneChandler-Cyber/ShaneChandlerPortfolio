@@ -65,3 +65,4 @@ Key Features:
 <script> setInterval(() => { const cursor = document.getElementById('cursor'); cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden'; }, 500); // Blink every 500ms </script>
 
 
+---
