@@ -15,7 +15,7 @@ layout: default
       <li><strong>CompTIA Security+</strong> (Completed)</li>
       <li><strong>OSCP</strong> (Planned)</li>
       <li><strong>Pentest+/CEH</strong> (Planned)</li>
-      <li><strong>Certificate in computer Office Applications</strong> (Planned)</li>
+      <li><strong>Certificate in Computer Office Applications</strong> (Planned)</li>
       <li><strong>Certified Threat Intelligence Analyst (CTIA)</strong> (Planned)</li>
     </ul>
     <img src="assets/images/SecurityPlus Logo Certified CE.png" alt="Security+ Logo" style="width: 75%;" />
