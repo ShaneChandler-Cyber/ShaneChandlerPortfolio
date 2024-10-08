@@ -93,3 +93,4 @@ My professional journey is focused on becoming a SOC Analyst and later advancing
 - **Mentorship**: Find a mentor within the cybersecurity field who can provide guidance and advice as I progress in my career.
 - **Stay Current with Industry Trends**: Regularly read cybersecurity blogs, white papers, and reports to stay informed about emerging threats and technologies.
 
+---
