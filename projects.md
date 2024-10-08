@@ -49,3 +49,8 @@ Content management using Jekyll and hosted via GitHub Pages, reflecting my profi
      - Utilization of various tools to identify vulnerabilities and secure systems.
      - Documented findings and remediation strategies for future reference.
 
+
+
+<script> setInterval(() => { const cursor = document.getElementById('cursor'); cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden'; }, 500); // Blink every 500ms </script>
+
+
