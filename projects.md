@@ -59,6 +59,20 @@ Key Features:
 - **Message Encryption**: Seamless encryption of messages and files to protect sensitive information during transmission.
 - **Digital Signatures**: Implementation of digital signatures to verify the authenticity of messages, ensuring they haven't been tampered with.
 - **Signature Verification**: Easy verification process for received signed messages, enhancing user trust in communications.
+ 
+
+### 6. Cybersecurity Discord Server (ongoing)
+
+Description: This Discord server was established to create a collaborative space for members of my cohort to engage in practical, real-world cybersecurity scenarios. The server aims to foster a community where users can learn from each other, share resources, and participate in discussions that enhance their cybersecurity skills and knowledge.
+Technologies Used: Discord, GitHub.
+Key Features:
+- **Collaborative Learning**: Members can participate in hands-on exercises, challenges, and discussions focused on real-world cybersecurity problems.
+- **Resource Sharing**: A dedicated channel for sharing tools, tutorials, and articles related to cybersecurity, enabling members to stay informed about industry trends and best practices.
+- **Event Coordination**: Facilitates organizing study groups, workshops, and competitions to encourage participation and practical application of skills.
+- **Supportive Community**: Provides a platform for networking, mentorship, and peer support among cohort members, enhancing their learning experience in cybersecurity.
+
+<a href="https://discord.gg/mCweBQExRW" target="_blank" class="discord-button">Join Our Discord</a>
+
 
 
 
