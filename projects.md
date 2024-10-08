@@ -42,12 +42,23 @@ layout: default
 
 ### 4. **Cybersecurity Training Labs**
 
-   - **Description**: Engaged in hands-on labs and simulations to strengthen my skills in penetration testing, vulnerability assessments, and incident response. This experience was pivotal in preparing for certifications such as **OSCP** and **Pentest+**.
+   - **Description**: Engaged in hands-on labs and simulations to strengthen my skills in penetration testing, vulnerability assessments, and incident response. This experience was pivotal in preparing for               certifications such as **OSCP** and **Pentest+**.
    - **Technologies Used**: Kali Linux, Metasploit, Nessus, Security Onion.
    - **Key Features**:
      - Realistic scenarios for testing skills and knowledge.
      - Utilization of various tools to identify vulnerabilities and secure systems.
      - Documented findings and remediation strategies for future reference.
+      
+### 5. PGP Implementation
+
+   **Description**: This project implements Pretty Good Privacy (PGP) to enhance the security and privacy of communications. By using encryption and digital signatures, we ensure confidential and authenticated       messages, fostering trust among users. The implementation utilizes Kleopatra for key management and GnuPG for encryption and decryption.
+Technologies Used: Kleopatra, GnuPG, Bash.
+Key Features:
+- **Key Generation**: Ability to create secure PGP key pairs for users, ensuring a unique identity for each communication.
+- **Public Key Management**: Efficient importing and exporting of public keys for secure message exchanges.
+- **Message Encryption**: Seamless encryption of messages and files to protect sensitive information during transmission.
+- **Digital Signatures**: Implementation of digital signatures to verify the authenticity of messages, ensuring they haven't been tampered with.
+- **Signature Verification**: Easy verification process for received signed messages, enhancing user trust in communications.
 
 
 
