@@ -18,7 +18,7 @@ layout: default
       <li><strong>Pentest+/CEH</strong> (Planned)</li>
       <li><strong>Certified Threat Intelligence Analyst (CTIA)</strong> (Planned)</li>
     </ul>
-    <img src="assets/images/SecurityPlus Logo Certified CE.png" alt="Security+ Logo" style="width: 75%;" />
+    <img src="assets/images/SecurityPlus Logo Certified CE.png" alt="Security+ Logo" style="width: 25%;" />
   </div>
 </div>
 
