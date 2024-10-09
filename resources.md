@@ -94,5 +94,11 @@ Welcome to the Resources page! Below, you'll find a curated list of tools, tutor
         });
     });
 </script>
+<script>
+  setInterval(() => {
+    const cursor = document.getElementById('cursor');
+    cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden';
+  }, 500); // Blink every 500ms
+</script>
 
 ---
