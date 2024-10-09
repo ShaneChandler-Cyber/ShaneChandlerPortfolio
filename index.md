@@ -5,8 +5,7 @@ layout: default
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shane Chandler's Cyber Portfolio</title>
-    
+       
     <!-- Open Graph Tags -->
     <meta property="og:title" content="Shane Chandler's Cyber Portfolio">
     <meta property="og:description" content="Explore my portfolio showcasing my skills and projects in cybersecurity.">
