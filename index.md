@@ -55,6 +55,7 @@ Currently working on a cybersecurity lab to simulate real-world scenarios involv
   }, 500); // Blink every 500ms
 </script>
 
+
 ## Roadmap
 
 My professional journey is focused on becoming a SOC Analyst and later advancing into a cyber threat intelligence role. I'm actively building skills and planning to take key certifications such as OSCP, Pentest+, and CISSP to bolster my technical expertise.
