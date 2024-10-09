@@ -2,29 +2,36 @@
 layout: default
 ---
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shane Chandler's Cyber Portfolio</title>
+    
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="Shane Chandler's Cyber Portfolio">
+    <meta property="og:description" content="Explore my portfolio showcasing my skills and projects in cybersecurity.">
+    <meta property="og:image" content="https://shanechandler-cyber.github.io/assets/images/Home.jpg"> <!-- Replace with actual image URL -->
+    <meta property="og:url" content="https://shanechandler-cyber.github.io/">
+</head>
+
 #  [About me](./aboutme.html) | [Home](./index.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) | [Projects](./projects.html)
 
-
- <div style="display: flex; align-items: center;">
-  <img src="assets/images/Home.jpg" alt="Home" style="margin-right: 20px;" />
-  <div>
-    <h2> Certification & Training </h2>
-    <ul>
-      <li><strong>George Brown College Cyber Security Analyst Certification</strong> (Completed)</li>
-      <li><strong>CompTIA A+ Training</strong> (Completed)</li>
-      <li><strong>CompTIA Security+</strong> (Completed)</li>
-      <li><strong>Certificate in Computer Office Applications</strong> (Completed)</li>
-      <li><strong>OSCP</strong> (Planned)</li>
-      <li><strong>Pentest+/CEH</strong> (Planned)</li>
-      <li><strong>Certified Threat Intelligence Analyst (CTIA)</strong> (Planned)</li>
-    </ul>
-    <img src="assets/images/SecurityPlus Logo Certified CE.png" alt="Security+ Logo" style="width: 75%;" />
-  </div>
+<div style="display: flex; align-items: center;">
+    <img src="assets/images/Home.jpg" alt="Home" style="margin-right: 20px;" />
+    <div>
+        <h2> Certification & Training </h2>
+        <ul>
+            <li><strong>George Brown College Cyber Security Analyst Certification</strong> (Completed)</li>
+            <li><strong>CompTIA A+ Training</strong> (Completed)</li>
+            <li><strong>CompTIA Security+</strong> (Completed)</li>
+            <li><strong>Certificate in Computer Office Applications</strong> (Completed)</li>
+            <li><strong>OSCP</strong> (Planned)</li>
+            <li><strong>Pentest+/CEH</strong> (Planned)</li>
+            <li><strong>Certified Threat Intelligence Analyst (CTIA)</strong> (Planned)</li>
+        </ul>
+        <img src="assets/images/SecurityPlus Logo Certified CE.png" alt="Security+ Logo" style="width: 75%;" />
+    </div>
 </div>
-
-
-
-
 
 # Key Projects
 
@@ -42,8 +49,6 @@ Currently working on a cybersecurity lab to simulate real-world scenarios involv
 
 [Projects](./projects.html)
 
-
-
 <script>
   setInterval(() => {
     const cursor = document.getElementById('cursor');
@@ -51,11 +56,9 @@ Currently working on a cybersecurity lab to simulate real-world scenarios involv
   }, 500); // Blink every 500ms
 </script>
 
-
 ## Roadmap
 
 My professional journey is focused on becoming a SOC Analyst and later advancing into a cyber threat intelligence role. I'm actively building skills and planning to take key certifications such as OSCP, Pentest+, and CISSP to bolster my technical expertise.
-
 
 ### 1. Certifications and Training
 
@@ -78,7 +81,6 @@ My professional journey is focused on becoming a SOC Analyst and later advancing
 - **Attend Cybersecurity Conferences**: Participate in conferences and workshops to stay updated on industry trends and network with peers.
 - **Engage in Online Communities**: Join forums and discussion groups (e.g., LinkedIn, Reddit) to learn from others and share my knowledge.
 
-
 ### 5. Career Advancement Towards Cyber Threat Intelligence
 
 - **Understand Cyber Threat Intelligence**: Research and familiarize myself with concepts related to threat intelligence, including:
@@ -91,6 +93,5 @@ My professional journey is focused on becoming a SOC Analyst and later advancing
 ### 7. Long-Term Goals and Continuous Learning
 - **Develop a Specialization**: Identify a specific area within cyber threat intelligence that I am passionate about and pursue additional training or certifications in that area.
 - **Mentorship**: Find a mentor within the cybersecurity field who can provide guidance and advice as I progress in my career.
-- **Stay Current with Industry Trends**: Regularly read cybersecurity blogs, white papers, and reports to stay informed about emerging threats and technologies.
-
+- **Stay Current with Industry Trends**: Regularly read cybersecurity blogs, white papers, and reports to stay informed about e
 ---
