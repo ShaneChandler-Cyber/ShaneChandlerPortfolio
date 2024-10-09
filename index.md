@@ -92,5 +92,6 @@ My professional journey is focused on becoming a SOC Analyst and later advancing
 ### 7. Long-Term Goals and Continuous Learning
 - **Develop a Specialization**: Identify a specific area within cyber threat intelligence that I am passionate about and pursue additional training or certifications in that area.
 - **Mentorship**: Find a mentor within the cybersecurity field who can provide guidance and advice as I progress in my career.
-- **Stay Current with Industry Trends**: Regularly read cybersecurity blogs, white papers, and reports to stay informed about e
+- **Stay Current with Industry Trends**: Regularly read cybersecurity blogs, white papers, and reports to stay informed about emerging threats and technologies.
+
 ---
