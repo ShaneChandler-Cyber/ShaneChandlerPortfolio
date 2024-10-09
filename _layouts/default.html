@@ -10,9 +10,13 @@
 
   gtag('config', 'G-77HYH7QT4Z');
 </script>
+    <title>{{ page.title }}</title>
+    <meta name="Homepage" content="{{ page.description | escape }}">
+    <meta name="keywords" content="{{ page.keywords | escape }}">
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 
@@ -41,6 +45,16 @@
     <div class="container">
       <section id="main_content">
         {{ content }}
+
+
+        <head>
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description | escape }}">
+    <meta name="keywords" content="{{ page.keywords | escape }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Add any other meta tags you need -->
+</head>
+
       </section>
     </div>
   </body>
