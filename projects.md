@@ -4,9 +4,9 @@ layout: default
 
 #  [About me](./aboutme.html) | [Home](./index.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) | [Projects](./projects.html)
 
-## Projects
+# Projects
 
-### 1. **Personal Portfolio Website** (ongoing)
+## 1. **Personal Portfolio Website** (ongoing)
 
    - **Description**: This responsive portfolio website is currently under construction, aiming to effectively present my technical skills and experiences in the realms of cybersecurity and IT. Developed using **Jekyll**, **HTML**, **CSS**, and **JavaScript**, the site features a modern layout facilitated by the **jekyll-theme-hacker**.
    - **Technologies Used**: Jekyll, GitHub Pages, HTML, CSS, JavaScript, SCSS.
@@ -21,7 +21,7 @@ layout: default
      - **Security Practices**: Demonstrating web security awareness by implementing protection against vulnerabilities like XSS attacks.
          PGP Key showcased to highlight encryption knowledge and secure communication.
 
-### 2. **Python Discord Bot** (ongoing)
+## 2. **Python Discord Bot** (ongoing)
 
    - **Description**: This Discord bot enhances the community experience within Legends Unhinged, offering features such as moderation tools, game statistics, and community engagement options. Developed in Python, the bot focuses on user interaction and community building.
    - **Technologies Used**: Python, discord.py, GitHub.
@@ -31,7 +31,7 @@ layout: default
      - Engaging features like polls and announcements to keep the community informed and active.
      - Easy deployment and updates through GitHub.
 
-### 3. **ELK Stack Implementation**
+## 3. **ELK Stack Implementation**
 
    - **Description**: Successfully configured and deployed the **ELK Stack** on a Linux VM to analyze and visualize log data for enhanced security insights. This project deepened my understanding of log management and monitoring.
    - **Technologies Used**: Elasticsearch, Logstash, Kibana, Linux.
@@ -40,7 +40,7 @@ layout: default
      - Custom dashboards for visualizing data and metrics.
      - Real-time data processing for immediate insights.
 
-### 4. **Cybersecurity Training Labs**
+## 4. **Cybersecurity Training Labs**
 
    - **Description**: Engaged in hands-on labs and simulations to strengthen my skills in penetration testing, vulnerability assessments, and incident response. This experience was pivotal in preparing for               certifications such as **OSCP** and **Pentest+**.
    - **Technologies Used**: Kali Linux, Metasploit, Nessus, Security Onion.
@@ -49,7 +49,7 @@ layout: default
      - Utilization of various tools to identify vulnerabilities and secure systems.
      - Documented findings and remediation strategies for future reference.
       
-### 5. PGP Implementation
+## 5. PGP Implementation
 
    **Description**: This project implements Pretty Good Privacy (PGP) to enhance the security and privacy of communications. By using encryption and digital signatures, we ensure confidential and authenticated       messages, fostering trust among users. The implementation utilizes Kleopatra for key management and GnuPG for encryption and decryption.
 Technologies Used: Kleopatra, GnuPG, Bash.
@@ -61,7 +61,7 @@ Key Features:
 - **Signature Verification**: Easy verification process for received signed messages, enhancing user trust in communications.
  
 
-### 6. Cybersecurity Discord Server (ongoing)
+## 6. Cybersecurity Discord Server (ongoing)
 
 Description: This Discord server was established to create a collaborative space for members of my cohort to engage in practical, real-world cybersecurity scenarios. The server aims to foster a community where users can learn from each other, share resources, and participate in discussions that enhance their cybersecurity skills and knowledge.
 Technologies Used: Discord, GitHub.
