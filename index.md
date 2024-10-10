@@ -61,13 +61,13 @@ Currently working on a cybersecurity lab to simulate real-world scenarios involv
 
 My professional journey is focused on becoming a SOC Analyst and later advancing into a cyber threat intelligence role. I'm actively building skills and planning to take key certifications such as OSCP, Pentest+, and CISSP to bolster my technical expertise.
 
-### 1. Certifications and Training
+## 1. Certifications and Training
 
 - **OSCP (Offensive Security Certified Professional)**: Plan and prepare for this hands-on certification, focusing on penetration testing and ethical hacking skills.
 - **Pentest+**: Pursue this certification to demonstrate my proficiency in penetration testing and vulnerability management.
 - **CISSP (Certified Information Systems Security Professional)**: Begin studying for this advanced certification to solidify my knowledge in security management and governance.
 
-### 3. Hands-On Experience and Practical Application
+## 3. Hands-On Experience and Practical Application
 
   - **Set Up a Home Lab**: Create a home lab environment to practice skills using tools like(in progress):
   - **Python** Proficiency in Python for automation, application development, and artificial intelligence. 
@@ -77,12 +77,12 @@ My professional journey is focused on becoming a SOC Analyst and later advancing
 - **Participate in Capture The Flag (CTF) Competitions**: Engage in CTFs to apply my knowledge in real-world scenarios and enhance problem-solving skills.
 - **Freelance or Volunteer Work**: Seek opportunities to gain practical experience through freelance projects or volunteer work in cybersecurity roles.
 
-### 4. Networking and Professional Development
+## 4. Networking and Professional Development
 - **Join Professional Associations**: Become a member of organizations such as (ISC)² or ISACA to connect with professionals in the field and access resources.
 - **Attend Cybersecurity Conferences**: Participate in conferences and workshops to stay updated on industry trends and network with peers.
 - **Engage in Online Communities**: Join forums and discussion groups (e.g., LinkedIn, Reddit) to learn from others and share my knowledge.
 
-### 5. Career Advancement Towards Cyber Threat Intelligence
+## 5. Career Advancement Towards Cyber Threat Intelligence
 
 - **Understand Cyber Threat Intelligence**: Research and familiarize myself with concepts related to threat intelligence, including:
   - **Threat Actors**: Learn about different types of threat actors and their tactics.
@@ -91,7 +91,7 @@ My professional journey is focused on becoming a SOC Analyst and later advancing
   - **Certified Threat Intelligence Analyst (CTIA)** to enhance my understanding and credibility in this area.
 - **Seek Threat Intelligence Roles**: Once established as a SOC Analyst, look for internal opportunities or external roles focused on threat intelligence to transition into this field.
 
-### 7. Long-Term Goals and Continuous Learning
+## 7. Long-Term Goals and Continuous Learning
 - **Develop a Specialization**: Identify a specific area within cyber threat intelligence that I am passionate about and pursue additional training or certifications in that area.
 - **Mentorship**: Find a mentor within the cybersecurity field who can provide guidance and advice as I progress in my career.
 - **Stay Current with Industry Trends**: Regularly read cybersecurity blogs, white papers, and reports to stay informed about emerging threats and technologies.
