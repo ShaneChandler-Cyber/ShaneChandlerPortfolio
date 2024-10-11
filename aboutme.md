@@ -12,7 +12,7 @@ layout: default
 I am currently pivoting towards becoming a **Security Operations Analyst**, with plans to transition into **Threat Intelligence** and **Penetration Testing**. My motivation is driven by a passion for protecting and securing digital infrastructures.
 
 ### Professional Background
-I’ve evolved from working as a mobile, computer, and network technician to becoming deeply immersed in the world of cybersecurity. My journey has been shaped by various roles, including working as a Digital Specialist and Projectionist at Olympus Theaters, where I managed both technical operations and digital systems. These experiences have honed my ability to tackle complex technical problems with creative solutions.
+I’ve evolved from working as a mobile, computer, and network technician to becoming deeply immersed in the world of cybersecurity. My journey has been shaped by various roles, including working as a Digital Specialist and Projectionist, where I managed both technical operations and digital systems. These experiences have honed my ability to tackle complex technical problems with creative solutions.
 
 ### Personal Interests
 Outside of work, I’m an avid photographer, audiophile, and gamer. I enjoy exploring digital landscapes and honing my strategic thinking through gaming.
