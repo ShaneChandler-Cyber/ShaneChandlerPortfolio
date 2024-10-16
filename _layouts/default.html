@@ -40,9 +40,23 @@
     </header>
 
     <div class="container">
-      <section id="main_content">
+      <section id="main_content" style="height: 500px; overflow-y: auto;">
         {{ content }}
       </section>
     </div>
+
+    <!-- Infinite Scroll Script -->
+    <script>
+      document.getElementById('main_content').addEventListener('scroll', function() {
+        if (this.scrollTop + this.clientHeight >= this.scrollHeight) {
+          loadMorePosts();
+        }
+      });
+
+      function loadMorePosts() {
+        // Logic for fetching and displaying more posts dynamically
+        console.log("Load more posts triggered.");
+      }
+    </script>
   </body>
 </html>
