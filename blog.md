@@ -1,8 +1,7 @@
 ---
-
-default
-
+layout: default
 ---
+
 
 
 <div id="post-container">
