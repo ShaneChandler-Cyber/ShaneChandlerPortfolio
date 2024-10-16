@@ -42,7 +42,7 @@ Here’s a snapshot of the projects I’ve worked on:
 - Deployed an ELK stack for monitoring and analyzing network traffic.
 - Configured Sysmon and Kibana for real-time data visualization and incident detection.
 
-Find more details about my projects [here](https://your-website-link.com/projects).
+Find more details about my projects [here](https://shanechandler-cyber.github.io/ShaneChandlerPortfolio//projects).
 
 ## Skills
 Some of the technical skills I bring include:
