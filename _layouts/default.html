@@ -44,19 +44,5 @@
         {{ content }}
       </section>
     </div>
-
-    <!-- Infinite Scroll Script -->
-    <script>
-      document.getElementById('main_content').addEventListener('scroll', function() {
-        if (this.scrollTop + this.clientHeight >= this.scrollHeight) {
-          loadMorePosts();
-        }
-      });
-
-      function loadMorePosts() {
-        // Logic for fetching and displaying more posts dynamically
-        console.log("Load more posts triggered.");
-      }
-    </script>
   </body>
 </html>
