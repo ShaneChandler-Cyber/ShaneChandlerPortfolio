@@ -71,6 +71,18 @@ Key Features:
 - **Event Coordination**: Facilitates organizing study groups, workshops, and competitions to encourage participation and practical application of skills.
 - **Supportive Community**: Provides a platform for networking, mentorship, and peer support among cohort members, enhancing their learning experience in cybersecurity.
 
+
+  ## 7. Moodle Learning Management System (LMS) Project (ongoing)
+**Description:** This project involves the development and implementation of a Moodle-based Learning Management System aimed at enhancing educational experiences for users. The project focuses on creating a user-friendly interface, integrating engaging content, and utilizing best practices for online learning. It also includes backend management and AWS integration for scalability and performance optimization.  
+**Technologies Used:** Moodle, PHP, AWS, MySQL.  
+**Key Features:**  
+- **Course Management:** Ability to create, manage, and organize courses with diverse content formats (videos, quizzes, forums).  
+- **User Engagement:** Interactive elements such as forums and quizzes to foster active participation and learning.  
+- **Analytics Dashboard:** Comprehensive analytics for tracking user progress and course effectiveness.  
+- **Scalability:** Hosted on AWS, ensuring reliable performance and easy scalability to accommodate a growing user base.  
+- **Security Measures:** Implementation of security best practices to protect user data and ensure privacy compliance.
+
+
 <a href="https://discord.gg/mCweBQExRW" target="_blank" class="discord-button">Join Our Discord</a>
 
 
