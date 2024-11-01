@@ -72,7 +72,7 @@ Key Features:
 - **Supportive Community**: Provides a platform for networking, mentorship, and peer support among cohort members, enhancing their learning experience in cybersecurity.
 
 
-  ## 7. Moodle Learning Management System (LMS) Project (ongoing)
+## 7. Moodle Learning Management System (LMS) Project (ongoing)
 **Description:** This project involves the development and implementation of a Moodle-based Learning Management System aimed at enhancing educational experiences for users. The project focuses on creating a user-friendly interface, integrating engaging content, and utilizing best practices for online learning. It also includes backend management and AWS integration for scalability and performance optimization.  
 **Technologies Used:** Moodle, PHP, AWS, MySQL.  
 **Key Features:**  
