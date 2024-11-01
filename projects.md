@@ -70,6 +70,7 @@ Key Features:
 - **Resource Sharing**: A dedicated channel for sharing tools, tutorials, and articles related to cybersecurity, enabling members to stay informed about industry trends and best practices.
 - **Event Coordination**: Facilitates organizing study groups, workshops, and competitions to encourage participation and practical application of skills.
 - **Supportive Community**: Provides a platform for networking, mentorship, and peer support among cohort members, enhancing their learning experience in cybersecurity.
+<a href="https://discord.gg/mCweBQExRW" target="_blank" class="discord-button">Join Our Discord</a>
 
 
 ## 7. Moodle Learning Management System (LMS) Project (ongoing)
@@ -83,7 +84,7 @@ Key Features:
 - **Security Measures:** Implementation of security best practices to protect user data and ensure privacy compliance.
 
 
-<a href="https://discord.gg/mCweBQExRW" target="_blank" class="discord-button">Join Our Discord</a>
+
 
 
 
