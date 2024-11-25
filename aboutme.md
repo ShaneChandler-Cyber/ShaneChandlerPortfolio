@@ -32,3 +32,20 @@ Beyond security, I’m dedicated to staying at the forefront of **tech innovatio
     cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden';
   }, 500); // Blink every 500ms
 </script>
+
+
+
+var i = 0;
+var txt = 'Your text goes here...'; /* The text you want to display */
+var speed = 50; /* The speed/duration of the effect in milliseconds */
+
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+
+typeWriter();
+
