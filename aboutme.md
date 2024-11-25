@@ -5,36 +5,18 @@ layout: default
 #  [About me](./aboutme.html) | [Home](./index.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) | [Projects](./projects.html)
 
 
+# About Me
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Typewriter Effect</title>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+  <h1># About Me</h1>
+  <div id="typewriter" style="display: inline-block; overflow: hidden; white-space: pre-wrap; border-right: 3px solid #000; animation: blink 0.7s step-end infinite; font-size: 18px; font-weight: bold;"></div>
+
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      padding: 20px;
-    }
-    .typewriter-container {
-      display: inline-block;
-      overflow: hidden;
-      white-space: pre-wrap; /* Preserve formatting for line breaks */
-      border-right: 3px solid #000;
-      animation: blink 0.7s step-end infinite;
-      font-size: 18px;
-      font-weight: bold;
-    }
     @keyframes blink {
       from, to { border-color: transparent; }
       50% { border-color: black; }
     }
   </style>
-</head>
-<body>
-  <h1># About Me</h1>
-  <div id="typewriter" class="typewriter-container"></div>
 
   <script>
     const text = `
@@ -50,7 +32,7 @@ I’ve evolved from working as a mobile, computer, and network technician to bec
 Outside of work, I’m an avid photographer, audiophile, and gamer. I enjoy exploring digital landscapes and honing my strategic thinking through gaming.
 
 ### Lifelong Learning
-Learning is a lifelong adventure. Whether I’m delving into the nuances of network security, experimenting with new culinary recipes, or exploring the latest photography techniques, my curiosity is the driving force behind all my endeavors.
+I believe that learning is a lifelong adventure. Whether I’m delving into the nuances of network security, experimenting with new culinary recipes, or exploring the latest photography techniques, my curiosity is the driving force behind all my endeavors.
 
 ### Commitment to Innovation
 Beyond security, I’m dedicated to staying at the forefront of **tech innovation**. My ability to engineer high-quality prompts has led me to dive deep into AI and automation workflows, helping businesses and individuals optimize and secure their technology stacks.
@@ -62,7 +44,6 @@ Beyond security, I’m dedicated to staying at the forefront of **tech innovatio
 
     function typeWriter() {
       if (i < text.length) {
-        // Convert newline characters to <br> dynamically
         if (text.charAt(i) === '\n') {
           container.innerHTML += '<br>';
         } else {
@@ -75,6 +56,6 @@ Beyond security, I’m dedicated to staying at the forefront of **tech innovatio
 
     typeWriter();
   </script>
-</body>
-</html>
+</div>
+
 
