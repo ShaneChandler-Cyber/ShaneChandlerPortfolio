@@ -50,7 +50,7 @@ I’ve evolved from working as a mobile, computer, and network technician to bec
 Outside of work, I’m an avid photographer, audiophile, and gamer. I enjoy exploring digital landscapes and honing my strategic thinking through gaming.
 
 ### Lifelong Learning
-I believe that learning is a lifelong adventure. Whether I’m delving into the nuances of network security, experimenting with new culinary recipes, or exploring the latest photography techniques, my curiosity is the driving force behind all my endeavors.
+Learning is a lifelong adventure. Whether I’m delving into the nuances of network security, experimenting with new culinary recipes, or exploring the latest photography techniques, my curiosity is the driving force behind all my endeavors.
 
 ### Commitment to Innovation
 Beyond security, I’m dedicated to staying at the forefront of **tech innovation**. My ability to engineer high-quality prompts has led me to dive deep into AI and automation workflows, helping businesses and individuals optimize and secure their technology stacks.
