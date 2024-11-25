@@ -4,8 +4,44 @@ layout: default
 
 #  [About me](./aboutme.html) | [Home](./index.html) | [Contact](./contactinfo.html) | [Resources](./resources.html) | [Projects](./projects.html)
 
-# About Me
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Typewriter Effect</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .typewriter-container {
+      display: inline-block;
+      overflow: hidden;
+      white-space: nowrap;
+      border-right: 3px solid #000;
+      animation: typing 5s steps(100, end), blink 0.7s step-end infinite;
+      font-size: 18px;
+      font-weight: bold;
+    }
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    @keyframes blink {
+      from, to { border-color: transparent; }
+      50% { border-color: black; }
+    }
+  </style>
+</head>
+<body>
+  <h1># About Me</h1>
+  <div id="typewriter" class="typewriter-container"></div>
+
+  <script>
+    const text = `
 **Hi there! I'm Shane**, an IT professional with over a decade and a half of experience spanning various domains in technology. My journey in IT has allowed me to develop a broad skill set, ranging from network and system administration to cybersecurity and web development.
 
 ### Current Focus
@@ -22,30 +58,21 @@ I believe that learning is a lifelong adventure. Whether I’m delving into the 
 
 ### Commitment to Innovation
 Beyond security, I’m dedicated to staying at the forefront of **tech innovation**. My ability to engineer high-quality prompts has led me to dive deep into AI and automation workflows, helping businesses and individuals optimize and secure their technology stacks.
+    `;
 
+    let i = 0;
+    const speed = 50; // typing speed in milliseconds
+    const container = document.getElementById('typewriter');
 
----
+    function typeWriter() {
+      if (i < text.length) {
+        container.innerHTML += text.charAt(i);
+        i++;
+        setTimeout(typeWriter, speed);
+      }
+    }
 
-<script>
-  setInterval(() => {
-    const cursor = document.getElementById('cursor');
-    cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden';
-  }, 500); // Blink every 500ms
-</script>
-
-
-
-var i = 0;
-var txt = 'Your text goes here...'; /* The text you want to display */
-var speed = 50; /* The speed/duration of the effect in milliseconds */
-
-function typeWriter() {
-  if (i < txt.length) {
-    document.getElementById("demo").innerHTML += txt.charAt(i);
-    i++;
-    setTimeout(typeWriter, speed);
-  }
-}
-
-typeWriter();
-
+    typeWriter();
+  </script>
+</body>
+</html>
