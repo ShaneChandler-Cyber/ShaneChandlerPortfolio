@@ -20,15 +20,11 @@ layout: default
     .typewriter-container {
       display: inline-block;
       overflow: hidden;
-      white-space: nowrap;
+      white-space: pre-wrap; /* Preserve formatting for line breaks */
       border-right: 3px solid #000;
-      animation: typing 5s steps(100, end), blink 0.7s step-end infinite;
+      animation: blink 0.7s step-end infinite;
       font-size: 18px;
       font-weight: bold;
-    }
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 100%; }
     }
     @keyframes blink {
       from, to { border-color: transparent; }
@@ -66,7 +62,12 @@ Beyond security, I’m dedicated to staying at the forefront of **tech innovatio
 
     function typeWriter() {
       if (i < text.length) {
-        container.innerHTML += text.charAt(i);
+        // Convert newline characters to <br> dynamically
+        if (text.charAt(i) === '\n') {
+          container.innerHTML += '<br>';
+        } else {
+          container.innerHTML += text.charAt(i);
+        }
         i++;
         setTimeout(typeWriter, speed);
       }
@@ -76,3 +77,4 @@ Beyond security, I’m dedicated to staying at the forefront of **tech innovatio
   </script>
 </body>
 </html>
+
