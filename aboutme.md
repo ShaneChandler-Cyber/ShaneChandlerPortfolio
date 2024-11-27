@@ -7,7 +7,7 @@ layout: default
 
 # About Me
 
-` **Hi there! I'm Shane**, an IT professional with over a decade and a half of experience spanning various domains in technology. My journey in IT has allowed me to develop a broad skill set, ranging from network and system administration to cybersecurity and web development. `
+**Hi there! I'm Shane**, an IT professional with over a decade and a half of experience spanning various domains in technology. My journey in IT has allowed me to develop a broad skill set, ranging from network and system administration to cybersecurity and web development.
 
 ### Current Focus
 I am currently pivoting towards becoming a **Security Operations Analyst**, with plans to transition into **Threat Intelligence** and **Penetration Testing**. My motivation is driven by a passion for protecting and securing digital infrastructures.
