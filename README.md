@@ -52,7 +52,7 @@ Some of the technical skills I bring include:
 - **Version Control:** Git, GitHub
 
 ## Contact Information
-Feel free to reach out to me if you have any questions or would like to discuss potential collaborations.
+Feel free to contact me if you have any questions or want to discuss potential collaborations.
 
 - **Email:** <span style="color: #FF6347;">[shanechandler001@gmail.com](mailto:shanechandler001@gmail.com)</span>
 - **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/shane-chandler-cyber-security)
