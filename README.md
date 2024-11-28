@@ -55,7 +55,7 @@ Some of the technical skills I bring include:
 Feel free to reach out to me if you have any questions or would like to discuss potential collaborations.
 
 - **Email:** <span style="color: #FF6347;">[shanechandler001@gmail.com](mailto:shanechandler001@gmail.com)</span>
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shane-chandler)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/shane-chandler-cyber-security)
 - **GitHub:** [GitHub Profile](https://github.com/ShaneChandler-Cyber)
 
 <img src="assets/images/profile-pic.png" alt="Shane's Profile Picture" style="border-radius: 50%; width: 150px;"/>
